@@ -4,11 +4,25 @@
 @import "{{ site.theme }}";
 
 body {
-      // font-family: "Times New Roman", Times, serif;
-	  font-family: 'Courier Prime', monospace;
-
+	font-family: 'Courier Prime', monospace;
 }
 
 p {
-	text-align: justify;
+	// text-align: justify;
+}
+
+.story-header {
+	font-size: 25px;
+	text-align: center;
+	margin-top : 20px;
+	margin-bottom: 40px;
+}
+
+.story-first-para p {
+	margin-bottom: 5px;
+}
+
+.story-content p {
+	text-indent: 25px;
+	margin-bottom: 5px;
 }
