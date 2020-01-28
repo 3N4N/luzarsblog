@@ -1,6 +1,6 @@
 ---
 title: "Iron Maiden and Literary Inspirations in Metal Music"
-date: 2020-01-01 22:18:46 +06
+date: 2020-01-24 22:18:46 +06
 categories: Article
 permalink: "/:title.html"
 ---
