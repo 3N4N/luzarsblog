@@ -11,6 +11,20 @@ p {
 	// text-align: justify;
 }
 
+.story-content hr {
+	border: none;
+}
+
+.story-content hr:before {
+  content: "***";
+  display: block;
+  font-size: 1em;
+  text-align: center;
+  margin-top:    3em;
+  margin-bottom: 3em;
+  color: black;
+}
+
 .story-header {
 	font-size: 25px;
 	text-align: center;
@@ -20,9 +34,11 @@ p {
 
 .story-first-para p {
 	margin-bottom: 5px;
+	line-height: 2;
 }
 
 .story-content p {
 	text-indent: 25px;
 	margin-bottom: 5px;
+	line-height: 2;
 }
