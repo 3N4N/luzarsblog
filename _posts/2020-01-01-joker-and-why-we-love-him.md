@@ -2,6 +2,7 @@
 title: "Joker and Why We Love Him"
 date: 2020-01-01 22:18:46 +06
 categories: Superhero
+comments: true
 permalink: "/:title.html"
 ---
 
