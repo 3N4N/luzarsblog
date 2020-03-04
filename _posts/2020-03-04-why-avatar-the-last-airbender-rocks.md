@@ -19,10 +19,10 @@ missed quite a special and extraordinary show ever to be aired. *Avatar:
 The Last Airbender* has aired for three seasons through three years (2005
 to 2008).
 
-Even after a decade of its finale, it continues to be a shiny example of
-phenomenal storytelling. There are reasons why *Avatar* works so well,
-some of which I'll try to point out for the uninitiated that the fans are
-going to find obvious.
+Even after a decade of its finale, it continues to be a shining example of
+phenomenal storytelling. There are reasons why *Avatar* works so well, some
+of which I'll try to point out for the uninitiated that the fans are going
+to find obvious.
 
 # The Worldbuilding
 
@@ -34,7 +34,7 @@ adheres to its own set of rules.
 The worldbuilding of *Avatar* is complex in its simpleness. The whole
 exposition of the secondary world is given in the small window of the title
 sequence of each episode. That should tell you how simple the world is.
-And, because of it, the writers were able to stretch it above and beyond,
+And, because of that, the writers were able to stretch it above and beyond,
 and play with it to satisfaction.
 
 The intro in the title sequence is all you need to enjoy the show, but,
@@ -48,7 +48,7 @@ showing incredible amount of adaptability, just like Water itself.
 Inhabitants of Earth Kingdom live in grandiose cities, with immovable
 principle and stoic ego. Citizens of Fire nation are warmongering and
 destructive, like fire; but those who disavow their past teachings and
-traditions become warm and lively, like fire.
+traditions become warm and lively, not unlike fire.
 
 Some might see the resemblance of Asian culture and history with the world
 of *Avatar*, and they would be correct to make that connection. The writers
@@ -108,15 +108,15 @@ If one character has taken its place among fans' hearts more firmly than
 others, it's Zuko. The banished prince of Fire nation first introduces
 himself as the irresponsible and annoying youngster villain of the show,
 only to surprise the viewers by having one of the best redemption arcs of
-all time through the span of three seasons.
+all time throughout the span of three seasons.
 
 There are countless example of equally incredible character arcs: Toph's
 journey from a fierce and belligerent master Earthbender into a more
 sophisticated woman who doesn't have to prove her toughness to the world,
-Sokka's journey from a sarcastic warrior who has little ability as a
-warrior into a responsible adult who has extensive knowledge of battle and
-war. Even the animal characters like Momo and Appa aren't excluded from
-amazing character arcs. *Avatar* really is a precious story.
+Sokka's journey from a sarcastic warrior with little ability as a warrior
+into a responsible adult with extensive knowledge of battle and war. Even
+the animal characters like Momo and Appa aren't excluded from amazing
+character arcs. *Avatar* really is a precious story.
 
 # Enjoy The Small Things
 
