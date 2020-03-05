@@ -31,7 +31,7 @@ story is criticized for is its worldbuilding. In simple terms, worlbuilding
 is the task of creating a secondary world for a story to take place in that
 adheres to its own set of rules.
 
-The worldbuilding of *Avatar* is complex in its simpleness. The whole
+The worldbuilding of *Avatar* is complex in its simplicity. The whole
 exposition of the secondary world is given in the small window of the title
 sequence of each episode. That should tell you how simple the world is.
 And, because of that, the writers were able to stretch it above and beyond,
