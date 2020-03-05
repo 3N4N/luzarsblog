@@ -118,7 +118,7 @@ into a responsible adult with extensive knowledge of battle and war. Even
 the animal characters like Momo and Appa aren't excluded from amazing
 character arcs. *Avatar* really is a precious story.
 
-# Enjoy The Small Things
+# Enjoy The Little Things
 
 Almost everything in *Avatar* is incredible and ingenious. I have only
 touched the surface of its awesomeness by showing some examples. Just to
@@ -142,7 +142,7 @@ demeanor which continues to unravel as she gradually grows unsure of her
 worth, ultimately culminating into her complete breakdown in the scene
 where she cuts off her hair.
 
-# Not Everything is Sunshine and Rainbow
+# Not Everything is Sunshine and Rainbows
 
 As much as I have praised the show, I won't shy away from revealing some of
 its shortcomings, whatever little of it there is.
