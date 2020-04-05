@@ -1,5 +1,5 @@
 ---
-title: "What Makes a Good Horror"
+title: "In Praise of Horror"
 date: 2020-04-04
 categories: Article
 comments: true
@@ -159,11 +159,11 @@ following the trauma of the abusive relation, her partner comes back
 and haunts her, now completely invisible.
 
 Any victim of abuse goes through a period of trauma. Some of them
-can't overcome it properly at all. During this period, she--I'll use
-feminine pronoun for the character of victim here, because of the
+can't overcome it completely at all. During this period, she\-\-I'll
+use feminine pronoun for the character of victim here, because of the
 characterization in the movie, and also because I did the inverse in
-the previous section--has to look behind her shoulder all the time to
-convince herself that her abuser is not back to hurt her anymore.
+the previous section\-\-has to look behind her shoulder all the time
+to convince herself that her abuser is not back to hurt her anymore.
 Abuse not only hurts physically, it breaks the mental strength and
 self confidence of the victim.
 
@@ -202,11 +202,37 @@ at the night of haunting, and they think their father left their
 mother to die in a deserted place, alone and helpless. The viewers get
 to know the real story as the kids get to know them.
 
+The show explores what effects disbelief and distrust can have in
+a family. It revolves around the members of a family uniting to
+resolve all their conflict together, helping each other. What it
+definitely wasn't is a cheap haunted house story.
+
 This is the only horror story I have encountered that explores what
 might happen to the survivors of a haunting incident of supernatural
 nature. It also incorporates a wide range of characters with unique
 conflicts and identifiable relationship dynamic between each pair of
 them. It was, all around, a good story.
+
+## Outlining vs Discovery Writing
+
+Some writers need to plot the story before they start writing. Some of
+them just start writing, trusting the story to advance itself. Most of
+them do a little bit of both.
+
+Do you need to think about the implications of your story before you
+finish it? No. But you should ponder about the humane elements after
+you've finished writing it. Your first draft won't be perfect. It
+doesn't need to be; nobody's gonna see it. What matters is what you
+consider your final piece.
+
+There's an interview of Jordan Peele, the writer-director of Get Out,
+where he discusses the idea behind the Sunken Place. He explains that
+the fear of being trapped into his own body and not being in control
+of it has been haunting him from early childhood. He just brought that
+fear onto the page. But when he read it afterwards, he understood the
+connection between the Sunken Place and the minorities feeling
+voiceless, powerless in the society. "I started crying," he said to
+the interviewer.
 
 ## Endings are Hard
 
