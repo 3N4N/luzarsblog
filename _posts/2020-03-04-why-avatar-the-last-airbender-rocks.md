@@ -5,14 +5,14 @@ comments: true
 permalink: "/:title.html"
 ---
 
-# Introduction
+## Introduction
 
 Just to make things absolutely clear, this post is not about the James
 Cameron movie and neither is it about the Shyamalan adaptation. This is
 exclusively about the Nickolodeon show that has secured a place in every
 2000's kid's heart like a cat securing a place in its owner's lap.
 
-# What is *Avatar: The Last Airbender*
+## What is *Avatar: The Last Airbender*
 
 I feel pity for you if you really need to read this section; you have
 missed quite a special and extraordinary show ever to be aired. *Avatar:
@@ -24,7 +24,7 @@ phenomenal storytelling. There are reasons why *Avatar* works so well, some
 of which I'll try to point out for the uninitiated that the fans are going
 to find obvious.
 
-# The Worldbuilding
+## The Worldbuilding
 
 Since the birth of *Lord of the Rings*, the first thing any fantastical
 story is criticized for is its worldbuilding. In simple terms, worlbuilding
@@ -58,7 +58,7 @@ reflect any real world nation. Can you imagine what would have happened if
 all the people of Fire nation were Chinese or Japanese? The writers were
 better than that, unlike those of some other shows I can mention.
 
-# Magic System
+## Magic System
 
 The second aspect that any fan looks into a fantastical show is its magic
 system. Essentially, the rules everything in the secondary world adheres to
@@ -93,7 +93,7 @@ here.
 Each of the characters has some aspect of their character shaped by the
 magic system. That, ladies and gentlemen, is good writing.
 
-# Incredible Characters
+## Incredible Characters
 
 Although it's the third section in this post, the characters are actually
 the most important aspect of any story. If we don't care about the
@@ -118,7 +118,7 @@ into a responsible adult with extensive knowledge of battle and war. Even
 the animal characters like Momo and Appa aren't excluded from amazing
 character arcs. *Avatar* really is a precious story.
 
-# Enjoy The Little Things
+## Enjoy The Little Things
 
 Almost everything in *Avatar* is incredible and ingenious. I have only
 touched the surface of its awesomeness by showing some examples. Just to
@@ -142,7 +142,7 @@ demeanor which continues to unravel as she gradually grows unsure of her
 worth, ultimately culminating into her complete breakdown in the scene
 where she cuts off her hair.
 
-# Not Everything is Sunshine and Rainbows
+## Not Everything is Sunshine and Rainbows
 
 As much as I have praised the show, I won't shy away from revealing some of
 its shortcomings, whatever little of it there is.
@@ -155,7 +155,7 @@ than one episode to flesh out the characters, giving them more and more
 obstacles to overcome. So, the writers found a way even around the small
 boundary of low runtime for each episode.
 
-# Conclusion
+## Conclusion
 
 There is so much more I have not talked about: the costume designs, the
 martial arts, the fight scenes, the secondary characters, the spirit world.
