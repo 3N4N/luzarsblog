@@ -31,8 +31,8 @@ to think up what the character might be like.
 
 First came the name: Spider-Man. Precise and concise. Then came his
 physique: lithe and strong. Strong as in athletically strong, not
-body-builder strong, because, although spiders---the likeness of
-Spider-Man---are strong creatures, none of them have abs like Dwayne
+body-builder strong, because, although spiders--the likeness of
+Spider-Man--are strong creatures, none of them have abs like Dwayne
 Johnson. At least, I don't think so.
 
 Then I figured out couple of choices as to how someone might become
@@ -46,7 +46,7 @@ be, what he does, what he fears, etc. This was the tricky part. Because,
 here, I had to transform an action figure into a living, breathing, hurting
 human being. Coming to this phase, the story about a man getting bit by a
 spider caught my eyes. Because that would mean he has to figure out how to
-deal with his newfound powers and responsibilities---an interesting
+deal with his newfound powers and responsibilities--an interesting
 struggle. But, if he has to learn to be a more responsible person, does it
 not make more sense if the man is not a man at all, but a teenager on the
 cusp of manhood? Why, yes! It does! And, the analogy of shooting webs,

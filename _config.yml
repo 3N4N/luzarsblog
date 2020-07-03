@@ -38,6 +38,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+kramdown:
+  typographic_symbols:
+      ndash: —
+
 defaults:
   -
     scope:
