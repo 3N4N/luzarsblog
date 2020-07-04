@@ -11,7 +11,7 @@ body {
 @media screen and (max-width: 800px) { body { font-size: 18px; } }
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
-	margin-bottom: 20px;
+	margin-bottom: 25px;
 }
 
 .wrapper {
@@ -47,3 +47,7 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
 .post-content h2 { font-size: 30px; font-weight: 600; }
 
 @media screen and (max-width: 800px) { .post-content h2 { font-size: 24px; } }
+
+.post-content h3 { font-size: 26px; font-weight: 400; }
+
+@media screen and (max-width: 800px) { .post-content h2 { font-size: 22px; } }
