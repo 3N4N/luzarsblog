@@ -4,10 +4,46 @@
 @import "{{ site.theme }}";
 
 body {
-  font-family: "DejaVu Serif", serif;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
 }
 
-.post-content h2 {
-  margin-top: 50px;
-  padding: 0;
+@media screen and (max-width: 800px) { body { font-size: 18px; } }
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
+	margin-bottom: 20px;
 }
+
+.wrapper {
+	max-width: -webkit-calc(800px - (75px * 2));
+	max-width:         calc(800px - (75px * 2));
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 75px;
+	padding-left:  75px;
+}
+
+@media screen and (max-width: 800px) {
+	.wrapper {
+		max-width: -webkit-calc(800px - (50px));
+		max-width:         calc(800px - (50px));
+		margin-right: auto;
+		margin-left: auto;
+		padding-right: 25px;
+		padding-left:  25px;
+	}
+}
+
+.post-title {
+	font-family: serif;
+	font-size: 40px;
+	font-weight: 400;
+	letter-spacing: -1px;
+	line-height: 1;
+}
+
+@media screen and (max-width: 800px) { .post-title { font-size: 34px; } }
+
+.post-content h2 { font-size: 30px; font-weight: 600; }
+
+@media screen and (max-width: 800px) { .post-content h2 { font-size: 24px; } }
