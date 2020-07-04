@@ -1,7 +1,6 @@
 ---
 title: "In Praise of Horror"
 date: 2020-04-04
-categories: Article
 comments: true
 permalink: "/:title.html"
 ---
@@ -70,18 +69,18 @@ devices for writers who doesn't have any other tool in his repertoire.
 So, what makes good horrors?
 
 1. **Believable plot.** It's not like you can't have any fantastical
-element in the story. You can. You just need to do the worldbuilding
-and weave the story around the fantastical element.
+   element in the story. You can. You just need to do the
+   worldbuilding and weave the story around the fantastical element.
 
 2. **Sympathetic characters.** Good horror stories, like any other
-stories (except maybe idealistic Sci-Fi), are about people. If the
-reader or viewer doesn't sympathize with the characters, they are
-gonna feel disconnected.
+   stories (except maybe idealistic Sci-Fi), are about people. If the
+   reader or viewer doesn't sympathize with the characters, they are
+   gonna feel disconnected.
 
 3. **Horror elements the characters have connection with.** This is
-the most important aspect of a horror story that most writers don't
-bother to work on. Five friends getting in a random haunted house and
-getting killed while having an orgy is, at best, bad fiction.
+   the most important aspect of a horror story that most writers don't
+   bother to work on. Five friends getting in a random haunted house
+   and getting killed while having an orgy is, at best, bad fiction.
 
 ## Show, Not Tell
 
@@ -141,8 +140,8 @@ since forever. The original story dealt with the possible catastrophe
 one man could inflict upon the society if he were to given the ability
 to be invisible. The premise might seem bonkers. "Why would we think
 about the implications of invisibility? It's not like someone has
-invented the Invisibility Cloak." Well, guess what? Somebody has.
-It's called the Internet.
+invented the Invisibility Cloak." Well, guess what? Somebody has. It's
+called the Internet.
 
 Anyway, the allegory of invisibility to anonymity is from the original
 novel. It was a very good Horror novel in its own right, but this
@@ -172,8 +171,7 @@ because of past abuse in a clever way. In the movie the abuser
 actually does come back to hurt her, which won't happen in real life
 (hopefully), or at least, won't happen the way it did in the movie.
 But it provides a picture to understand the harrowing experience the
-victims of abuse go through. That's good horror. And good
-literature.
+victims of abuse go through. That's good horror. And good literature.
 
 ### The Haunting of Hill House (Mike Flanagan TV series)
 
@@ -202,10 +200,10 @@ at the night of haunting, and they think their father left their
 mother to die in a deserted place, alone and helpless. The viewers get
 to know the real story as the kids get to know them.
 
-The show explores what effects disbelief and distrust can have in
-a family. It revolves around the members of a family uniting to
-resolve all their conflict together, helping each other. What it
-definitely wasn't is a cheap haunted house story.
+The show explores what effects disbelief and distrust can have in a
+family. It revolves around the members of a family uniting to resolve
+all their conflict together, helping each other. What it definitely
+wasn't is a cheap haunted house story.
 
 This is the only horror story I have encountered that explores what
 might happen to the survivors of a haunting incident of supernatural
