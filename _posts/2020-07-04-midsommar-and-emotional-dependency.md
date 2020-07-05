@@ -38,7 +38,7 @@ abandonment issues. When her therapist says Christian should support
 her when she needs him to, Dani replies saying she does not want to
 lean too much on him lest he decide to break up with her. This fear
 bubbles up when, after telling Christian about Simon leaving Connie
-behind, the only response she gets from Christian is: "That sucks."
+behind, the only response Dani gets from Christian is: "That sucks."
 This incident causes her nightmares about Christian and his friends
 leaving Hälsingland without her.
 
@@ -51,11 +51,10 @@ at a time.
 The philosophy of sharing is what makes the cult work as a horror
 element in Midsommar because it complements the character arc of Dani
 as she grows from an emotionally unstable person to a healthy one (the
-final frame of the film shows her smiling).
+movie ends with a shot of her smiling).
 
 ## Closing Arguments
 
-Enough talk, now to the thesis statement: Midsommar is about the
-urgency of sharing and connecting. The scene where Dani is held by the
-young women as she cries and grieves is the thematic focus of the
-movie.
+Midsommar is about the urgency of sharing and connecting. The scene
+where Dani is held by the young women of the cult as she cries and
+grieves is the thematic focus of the movie.
