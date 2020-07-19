@@ -5,7 +5,9 @@
 
 body {
   font-family: 'PT Sans', sans-serif;
+  font-weight: 0;
   font-size: 20px;
+  color: #555;
 }
 
 @media screen and (max-width: 800px) { body { font-size: 18px; } }
@@ -40,14 +42,15 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
 	font-weight: 400;
 	letter-spacing: -1px;
 	line-height: 1;
+	color: #444;
 }
 
 @media screen and (max-width: 800px) { .post-title { font-size: 34px; } }
 
-.post-content h2 { font-size: 30px; font-weight: 600; }
+.post-content h2 { font-size: 30px; font-weight: 600; color: #444; }
 
 @media screen and (max-width: 800px) { .post-content h2 { font-size: 24px; } }
 
-.post-content h3 { font-size: 26px; font-weight: 400; }
+.post-content h3 { font-size: 26px; font-weight: 400; color: #444; }
 
 @media screen and (max-width: 800px) { .post-content h2 { font-size: 22px; } }
