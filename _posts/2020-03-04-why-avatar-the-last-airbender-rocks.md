@@ -2,6 +2,7 @@
 title: "Why Avatar: The Last Airbender Rocks"
 date: 2020-03-04
 comments: true
+category: Essay
 permalink: "/:title.html"
 ---
 

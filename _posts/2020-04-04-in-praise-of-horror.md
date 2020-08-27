@@ -2,6 +2,7 @@
 title: "In Praise of Horror"
 date: 2020-04-04
 comments: true
+category: Essay
 permalink: "/:title.html"
 ---
 

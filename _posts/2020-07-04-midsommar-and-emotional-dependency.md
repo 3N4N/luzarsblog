@@ -2,6 +2,7 @@
 title: "Midsommar and Emotional Dependency"
 date: 2020-07-04
 comments: true
+category: Essay
 permalink: "/:title.html"
 ---
 

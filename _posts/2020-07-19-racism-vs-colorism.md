@@ -2,6 +2,7 @@
 title: "Racism vs Colorism"
 date: 2020-07-19
 comments: true
+category: Blog
 permalink: "/:title.html"
 ---
 

@@ -2,6 +2,7 @@
 title: "Building a Character"
 date: 2020-04-28
 comments: true
+category: Essay
 permalink: "/:title.html"
 ---
 

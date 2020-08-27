@@ -2,6 +2,7 @@
 title: "Joker and Why We Love Him"
 date: 2020-01-01 22:18:46 +06
 comments: true
+category: Essay
 permalink: "/:title.html"
 ---
 

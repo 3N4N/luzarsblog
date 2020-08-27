@@ -2,6 +2,7 @@
 title: "Fight Club: A Coming-of-Age Film"
 date: 2020-07-14
 comments: true
+category: Essay
 permalink: "/:title.html"
 ---
 
